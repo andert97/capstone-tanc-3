@@ -1,5 +1,5 @@
 {
-  "homepage": "http://andert97.github.io/capstone-tanc-3/",
+  "homepage": "http://andert97.github.io/capstone-tanc-3",
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
